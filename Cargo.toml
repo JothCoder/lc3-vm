@@ -1,0 +1,10 @@
+[package]
+name = "lc3-vm"
+version = "0.1.0"
+authors = ["Jonathan C"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+byteorder = "^1.4.3"
+termios = "^0.3.3"
